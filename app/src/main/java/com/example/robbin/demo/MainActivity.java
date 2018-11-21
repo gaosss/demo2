@@ -35,6 +35,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
         System.out.println("gogogo4");
 
+        //gogogog
+
         if(view.getId()==R.id.button)
         {
 
